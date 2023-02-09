@@ -2,9 +2,11 @@
 
 ## Caveats
 
-This is not a true project: This was pieced together from two other projects, one of which is typically compiled into a DLL to be used by other projects, and a website with other tools and functions. That additional functionality is why many components are more complex than they might otherwise need to be.
+This is not a true project: This was pieced together to demonstrate the concept, using code from two other projects - one of which is typically compiled into a DLL to be used by other projects, and a website with other tools and functions. That additional functionality is why many components are more complex than they might otherwise need to be.
 
 If you wanted to use this, you will likely want to develop your own build process, using NuGet to install DLLs, following your own standards for code formatting, find and fix 'oops I meant to fix this' bad practices, etc.
+
+We do not indend to take on a public open source management role with this repo, so there won't be any automated pipeline, pull requests, etc. But feel free to note any issues if you find them!
 
 ## Layout
 
